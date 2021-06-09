@@ -1,0 +1,14 @@
+header {
+    padding: 1.5rem;
+    background-color: $main-col;
+
+    .container {
+        display: flex;
+
+        h1 {
+            color: $text-col-one;
+            border: 3px solid $text-col-one;
+            padding: 15px;
+        }
+    }
+}
